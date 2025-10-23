@@ -30,4 +30,4 @@ ImGui
 Custom architecture
 
 
-2% done (only hud no render)
+2% done (only hud no renderer)
