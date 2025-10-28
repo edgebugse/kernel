@@ -30,6 +30,13 @@ settings language (rus and eng)
 settings main (background)
 
 
+0.4v:
+
+<img width="1265" height="788" alt="image" src="https://github.com/user-attachments/assets/4ff45b4c-ec3b-4100-bbc9-ff0875d81196" />
+add console ("addcube", "delete", "clearcubes", "clear", "movecube", "rotate", "sv_cheats 0/1", "skibidi", "sizecube")
+
+add language gui(massive rus and eng var)
+
 <img width="1262" height="793" alt="image" src="https://github.com/user-attachments/assets/353adebf-f32c-42b7-a4ad-22afc6cd8fdf" />
 <img width="1261" height="784" alt="image" src="https://github.com/user-attachments/assets/995b19f0-4aa8-4609-94d4-a78274aaffee" />
 <img width="874" height="460" alt="image" src="https://github.com/user-attachments/assets/21b539f3-6308-4a4a-b541-510597a56cfd" />
